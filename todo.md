@@ -1,5 +1,3 @@
 Wichtige Änderungen
-div container
+div container bearbeiten
 test button
-irgendwas
-slider button
